@@ -1,0 +1,11 @@
+<div class="form-header">
+  <!-- #myInput Template reference variable -->
+  <!-- (keyup.enter) listen for the enter key -->
+  <!-- doSearch(myInput.value) call the method in Angular and pass the typed text -->
+  <input #myInput type="text" placeholder="Search for cars ..." class="au-input au-input-xl" (keyup.enter)="doSearch(myInput.value)" />
+
+  <button (click)="doSearch(myInput.value)" class="au-btn-submit">
+    Search
+  </button>
+
+</div>
