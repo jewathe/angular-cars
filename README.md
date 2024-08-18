@@ -26,5 +26,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+## Afficher par categorie
 
+# Voiture pour toute occasion
 <img width="730" alt="image" src="https://github.com/user-attachments/assets/fe7af43d-731e-442b-a57c-cc0d1f0d7914">
+
+# Voiture de luxe
+<img width="638" alt="image" src="https://github.com/user-attachments/assets/67725839-e1dc-4994-8d83-ed7afb3217c1">
+
+# Mini voiture
+<img width="638" alt="image" src="https://github.com/user-attachments/assets/b5710134-d88f-4333-8b80-4e5591256b8a">
+
